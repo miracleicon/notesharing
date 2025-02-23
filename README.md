@@ -10,7 +10,7 @@ NoteShare is a web application that allows users to share their notes with other
 
 - **User Profiles:** Every user gets their own profile where they can view and manage their notes, as well as see their activity and engagement on the platform.
   
-  ![profile page](https://github.com/miracleicon/NoteSharing/blob/main/frontend/public/image/userprofile.png)
+  ![profile page](https://github.com/miracleicon/notesharing/blob/master/frontend/public/image/userprofile.png)
 
 
 - **Note Sharing:** Share your notes with the community which will help others to get more on that topic.
@@ -24,7 +24,7 @@ NoteShare is a web application that allows users to share their notes with other
 
 - **Chat with Other Users:** Engage in **real-time conversations** with other users through the built-in chat feature. Discuss topics, exchange knowledge, and build connections.
   
-  ![chat page](https://github.com/miracleicon/NoteSharing/blob/main/frontend/public/image/chat.png)
+  ![chat page](https://github.com/miracleicon/notesharing/blob/master/frontend/public/image/chat.png)
 
 
 - **Privacy and Security:** NoteShare prioritizes the **security and privacy** of its users. All user data is encrypted and kept confidential.
@@ -35,14 +35,14 @@ NoteShare is a web application that allows users to share their notes with other
 
 2. **Create a Note:** To share a note, int home page click on "Upload Note." Write your note, add relevant description, titles and your url of notes where you have uploaded the note
    
-  ![UploadNots](https://github.com/miracleicon/NoteSharing/blob/main/frontend/public/image/uploadform.png)
+  ![UploadNots](https://github.com/miracleicon/notesharing/blob/master/frontend/public/image/uploadform.png)
   
 
 4. **Explore Shared Notes:**  find notes shared by other users. You can filter notes by tags, categories, or popularity on the searchBox by typing specific text.
 
 5. **Chat with Users:** To start a conversation, click on the "Chat" button. search for particular user and click on that user now You can have one-on-one chats.
    
-   ![UploadNots](https://github.com/miracleicon/NoteSharing/blob/main/frontend/public/image/searchuser.png)
+   ![UploadNots](https://github.com/miracleicon/notesharing/blob/master/frontend/public/image/searchuser.png)
 
 
 7. **Manage Your Notes:** In your profile, you can view and manage all your notes. Edit, delete, or update.
